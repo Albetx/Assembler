@@ -1,6 +1,6 @@
 <h2> Assembler </h2> <br>
 Assembler for a particular assambly language designed by the OpenUniversity.<br>
-The program receives .as file that contains instructions, parsers it and outputs a file with translated code in base 4 and another 2 files contains the internal and external symbols. Any wrong expression is reported as an error to the console.
+The program receives .as file that contains instructions, parsers it and outputs a file with translated code in base 4 and another 2 files contains the internal and external symbols. Any wrong commands is reported as an error to the console.
 <br><br>
 
 <b> Input: </b> <br>
